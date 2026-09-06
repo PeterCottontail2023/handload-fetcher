@@ -1,0 +1,17 @@
+# Claude Code harness bookkeeping (per-project state, not project content)
+.claude/
+.mcp.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Vendored dependencies (pdfplumber and its transitive deps) -- reinstalled
+# automatically by the launcher scripts, or via `pip install --target=...`
+handloadfetcher/vendor/
+
+# Cached manufacturer listing pages
+handloadfetcher/.cache/
+
+# Generated HTML reports
+handloadfetcher/reports/
