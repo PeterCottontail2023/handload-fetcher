@@ -2,6 +2,8 @@
 
 _by [PeterCottontail2023](https://github.com/PeterCottontail2023)_
 
+![Handload Fetcher HTML report, showing 9.3x62 load data grouped by manufacturer](docs/screenshot.png)
+
 Pulls published reloading load data from manufacturer sites for a given
 cartridge and normalizes it into one common table shape (powder, charge
 weight, velocity, plus whatever bullet/case/primer/barrel context that
